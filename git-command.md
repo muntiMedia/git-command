@@ -4,7 +4,9 @@ This instruction includes git commands
 # Terminal Commad
 | Column 1 Header | Column 2 Header | Column 3 Header |
 | --------------- | --------------- | --------------- |
-| Row 1 Column 1 | Row 1 Column 2 | Row 1 Column 3 |
-| Row 2 Column 1 | Row 2 Column 2 | Row 2 Column 3 |
-| Row 3 Column 1 | Row 3 Column 2 | Row 3 Column 3 |
+| git status | Row 1 Column 2 | Row 1 Column 3 |
+| git add . | Row 2 Column 2 | Row 2 Column 3 |
+| git add -a | Row 3 Column 2 | Row 3 Column 3 |
+| git add <file name | Row 3 Column 2 | Row 3 Column 3 |
+
 
