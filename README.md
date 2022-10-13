@@ -1,7 +1,7 @@
 # Git Command!
 This instruction includes git commands 
 
-# Terminal Commad
+## Terminal Commad
 | Commnd | Discribtion | 
 | --------------- | --------------- |
 | git status | Row 1 Column 2 | 
