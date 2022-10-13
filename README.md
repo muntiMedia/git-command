@@ -1,8 +1,7 @@
 # Git Command!
 This instruction includes git commands 
 
-https://img.shields.io/cirrus/github/muntiMedia/git-command?color=violet
-
+![Cirrus CI - Base Branch Build Status](https://img.shields.io/cirrus/github/muntiMedia/git-command?color=violet&label=command&logo=GitHub&style=flat-square)
 ## Terminal Commad
 | Commnd | Discribtion | 
 | --------------- | --------------- |
