@@ -1,7 +1,7 @@
 # Git Command!
 This instruction includes git commands 
 
-https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>
+https://img.shields.io/nodeping/status/git-command?up_color=purple&up_message=status
 
 ## Terminal Commad
 | Commnd | Discribtion | 
