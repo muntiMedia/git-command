@@ -1,7 +1,7 @@
 # Git Command!
 This instruction includes git commands 
 
-https://img.shields.io/nodeping/status/git-command?up_color=purple&up_message=status
+https://img.shields.io/cirrus/github/muntiMedia/git-command?color=violet
 
 ## Terminal Commad
 | Commnd | Discribtion | 
