@@ -7,11 +7,11 @@ This instruction includes git commands
 ## Terminal Commad
 | Commnd | Discribtion | 
 | --------------- | --------------- |
-| git status | Row 1 Column 2 | 
-| git add . | Row 2 Column 2 | 
-| git add -a | Row 3 Column 2 | 
-| git add <file name | Row 3 Column 2 | 
-| git commit -a "message> | Row 3 Column 2 | 
+| git status | check uncommited files | 
+| git add . | add all file to current directory| 
+| git add -a | add | 
+| git add <file name> | add a single file to current directory| 
+| git commit -a "message> | commit changes to current branch| 
 | git diff | Row 3 Column 2 | 
 | git log | Row 3 Column 2 | 
 
