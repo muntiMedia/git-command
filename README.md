@@ -16,6 +16,8 @@ This instruction includes git commands
 | git log | view repo changes | 
 | git rebase | move current file to another branch | 
 | git reset --hard <branch name> | remove changes | 
+ |git stash pop | reapply commit to working directory| 
+
 
 
 
