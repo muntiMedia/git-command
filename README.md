@@ -14,6 +14,10 @@ This instruction includes git commands
 | git commit -m "message> | commit changes to current branch| 
 | git diff |list changes| 
 | git log | view repo changes | 
+| git rebase | move current file to another branch | 
+
+
+
 
 
 
