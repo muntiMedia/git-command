@@ -1,7 +1,7 @@
 # Git Command!
-This instruction includes git commands 
+Git commands are the most powerful and time saving, familiarizing with those basic  command are important when working with terminal on daily basis.
 
-## Git
+## Git Basics
 ***
 
 ### Screenshot
