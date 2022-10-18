@@ -1,5 +1,5 @@
-# Git Command!
-Git commands are the most powerful and time saving, familiarizing with those basic  command are important when working with terminal on daily basis.
+# Git Commands!
+Git terminal commands are the most powerful and time saving, familiarizing with those basic  command are important when working with terminal on daily basis.
 
 ## Git Basics
 ***
